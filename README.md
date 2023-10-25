@@ -32,7 +32,9 @@ Para utilizar el programa, debes seguir los siguientes pasos:
 6. Ejecuta el siguiente comando para instalar las dependencias necesarias:
 
 go get -u github.com/gin-gonic/gin
+
 go get -u gorm.io/gorm
+
 go get -u gorm.io/driver/mysql
 
 7. Ejecuta el siguiente comando para ejecutar las migraciones:
