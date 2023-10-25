@@ -36,13 +36,10 @@ go get -u gorm.io/gorm
 go get -u gorm.io/driver/mysql
 
 7. Ejecuta el siguiente comando para ejecutar las migraciones:
-
 go run migrate/migrate.go
 
 8. Ejecuta el siguiente comando para iniciar el servidor web:
-
 go run main.go
 
 9. Ahora puedes probar la API REST CRUD que cree usando herramientas como Postman o curl.
-
 Espero que esto te ayude a entender cómo funciona el programa y cómo utilizarlo. 🐸
